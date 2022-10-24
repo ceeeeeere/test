@@ -30,3 +30,5 @@ for i in range(1, len(data), 1):
     print(opTbl)
 
 print(opTbl)
+print(opTbl)
+print(opTbl)
