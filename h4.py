@@ -16,6 +16,7 @@ data = list(map(int,input().split()))
 n = max(data)
 oddNum ,evenNum = 0 ,0#奇數個，個偶數1111111
 oddNum ,evenNum = 0 ,0#奇數個，個偶數2222222
+oddNum ,evenNum = 0 ,0#奇數個，個偶數2222222
 numSum = 0 #數字和
 
 n_str = str(n)
