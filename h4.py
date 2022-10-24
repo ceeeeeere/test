@@ -15,9 +15,6 @@ Created on Tue Oct  4 09:27:27 2022
 data = list(map(int,input().split()))
 n = max(data)
 oddNum ,evenNum = 0 ,0#奇數個，個偶數1111111
-oddNum ,evenNum = 0 ,0#奇數個，個偶數2222222
-oddNum ,evenNum = 0 ,0#奇數個，個偶數2222222
-#oddNum ,evenNum = 0 ,0#奇數個，個偶數3333
 numSum = 0 #數字和
 
 n_str = str(n)
