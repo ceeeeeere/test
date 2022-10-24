@@ -6,9 +6,9 @@ Created on Tue Oct 11 10:43:14 2022
 """
 
 data = [[5, 6], [1, 2], [4,8], [7, 9], ]  #(恆a <= b)
-data.sort()#sort
+data.sort()
 opTbl = []#123
-opTbl.append(data[0])#45611111
+opTbl.append(data[0])
 print(data)
 print(opTbl)
 for i in range(1, len(data), 1):
